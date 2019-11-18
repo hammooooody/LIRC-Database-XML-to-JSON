@@ -70,7 +70,7 @@ Each json file looks something like this
 - `model` >> model number/code within a brand.
 - `buttons` >> list of buttons in that remote controller.
 - `name` >> key name e.g. `VOLUMN_UP` and `POWER`.
-- `code` >> raw IR code.
+- `code` >> Pronto HEX IR code.
 - `codeno` >> referenced by the XML database.
 - `decoding` additional information on the code type and device (Relates to LIRC library)
 
